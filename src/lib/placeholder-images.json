@@ -1,0 +1,46 @@
+{
+  "placeholderImages": [
+    {
+      "id": "hero-background",
+      "description": "Background image for the hero section showing aerospace technology.",
+      "imageUrl": "https://images.unsplash.com/photo-1763992522791-70351a819b53?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxhZXJvc3BhY2UlMjBkZWZlbnNlfGVufDB8fHx8MTc2NzYyODYyMHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "aerospace defense"
+    },
+    {
+      "id": "how-it-works-1",
+      "description": "Iconic image for the 'Discover' step in How It Works.",
+      "imageUrl": "https://images.unsplash.com/photo-1571878385238-2d89b27962b1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxtYWduaWZ5aW5nJTIwZ2xhc3N8ZW58MHx8fHwxNzY3Njk0OTc0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "magnifying glass"
+    },
+    {
+      "id": "how-it-works-2",
+      "description": "Iconic image for the 'Connect' step in How It Works.",
+      "imageUrl": "https://images.unsplash.com/photo-1611075385356-1f295304c68e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxoYW5kc2hha2UlMjBjb2xsYWJvcmF0aW9ufGVufDB8fHx8MTc2NzcxOTcxMnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "handshake collaboration"
+    },
+    {
+      "id": "how-it-works-3",
+      "description": "Iconic image for the 'Procure' step in How It Works.",
+      "imageUrl": "https://images.unsplash.com/photo-1633963792796-8e35bb51675a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxjaGVja2xpc3QlMjBjb250cmFjdHxlbnwwfHx8fDE3Njc3MTk3MTN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "checklist contract"
+    },
+    {
+      "id": "differentiator-verified",
+      "description": "Image for the 'Verified Suppliers' differentiator.",
+      "imageUrl": "https://images.unsplash.com/photo-1767226633753-92e86e9001cc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHx2ZXJpZmllZCUyMHN0YW1wfGVufDB8fHx8MTc2NzcxOTcxMnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "verified stamp"
+    },
+    {
+      "id": "differentiator-structured",
+      "description": "Image for the 'Structured Taxonomy' differentiator.",
+      "imageUrl": "https://images.unsplash.com/photo-1759984782045-3dc053af22a9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8ZGF0YSUyMHN0cnVjdHVyZXxlbnwwfHx8fDE3Njc2MzM3NzJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "data structure"
+    },
+    {
+      "id": "differentiator-defense",
+      "description": "Image for the 'Defense-Focused' differentiator.",
+      "imageUrl": "https://images.unsplash.com/photo-1763656445364-13646fd91212?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxtaWxpdGFyeSUyMHRlY2h8ZW58MHx8fHwxNzY3NzE5NzEzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "military tech"
+    }
+  ]
+}
